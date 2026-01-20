@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+
 
 #define SIZE 50
 
@@ -169,3 +168,4 @@ int main() {
     }
     return 0;
 }
+
